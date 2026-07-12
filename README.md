@@ -1,4 +1,4 @@
-1,000,000.00 MUSD # B-SDFF-BYD-605-158
+1,000,000.00 MUSD # B-SDFF-BYD-GLS-GBLX 612-650
 Alianza comercial denominación Bakessalads  amp; Bakes Y Salads Delicious fresh food (2015 - 2025)
 V:1.1 del Informe GRC referente a lo dicho: firmas, QR de verificación y mapeo de controles. 605 (c.fiscal act)
 Dezire Bakes & Salads 158 (SpaceX)
